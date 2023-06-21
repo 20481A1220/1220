@@ -1,0 +1,36 @@
+Request::
+{
+	"companyName": "VasuBuilders",
+	"ownerName":"vasu",
+	"rollNo":"2048A1220",
+	"ownerEmail":"vasuvamsikrishnabrundavanam@gmail.com",
+	"accessCode":"dWGzNM"
+}
+=======================
+Response::
+{
+	"companyName": "VasuBuilders",
+	"clientID": "f1990806-1447-4a82-8aab-b1a4af9e636c",
+	"clientSecret": "ukReUFBRAsZnHgeK",
+	"ownerName": "vasu",
+	"ownerEmail": "vasuvamsikrishnabrundavanam@gmail.com",
+	"rollNo": "2048A1220"
+}
+=====================================
+2.Request::
+{
+	"companyName":"VasuBuilders",
+	"clientID":"f1990806-1447-4a82-8aab-b1a4af9e636c",
+	"ownerName":"vasu",
+	"ownerEmail":"vasuvamsikrishnabrundavanam@gmail.com",
+	"rollNo":"2048A1220",
+	"clientSecret":"ukReUFBRAsZnHgeK"
+}
+======================================
+
+2.Response
+{
+	"token_type": "Bearer",
+	"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODczMjM5OTksImNvbXBhbnlOYW1lIjoiVmFzdUJ1aWxkZXJzIiwiY2xpZW50SUQiOiJmMTk5MDgwNi0xNDQ3LTRhODItOGFhYi1iMWE0YWY5ZTYzNmMiLCJvd25lck5hbWUiOiIiLCJvd25lckVtYWlsIjoiIiwicm9sbE5vIjoiMjA0OEExMjIwIn0.idOI2Hl1exY2Y8itPjySw6mAzoDnWCZNS_iieJRulJs",
+	"expires_in": 1687323999
+}
